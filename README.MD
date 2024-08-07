@@ -1,0 +1,1 @@
+App that decrees resolution of images in folder to specified resolution
